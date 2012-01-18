@@ -1,0 +1,43 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.pdf",
+		"*.class",
+		".*"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".*",
+		"build",
+		"*.egg-info"
+	],
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeHg"
+	],
+	"open_files_in_new_window": false,
+	"theme": "Soda Light.sublime-theme",
+	"use_simple_full_screen": true
+}

@@ -1,0 +1,9 @@
+[
+    { "keys": ["super+f3"], "command": "goto_python_definition" },
+    { "keys": ["super+j"], "command": "code_intel_auto_complete" },
+    { "keys": ["super+ctrl+,"], "command": "unexpand_tabs"},
+    { "keys": ["super+ctrl+."], "command": "expand_tabs"},
+    { "keys": ["super+ctrl+alt+left"], "command": "navigation_history_back"},
+    { "keys": ["super+ctrl+alt+right"], "command": "navigation_history_forward"},
+    { "keys": ["alt+."], "command": "close_tag" }
+]

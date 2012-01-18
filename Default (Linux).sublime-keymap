@@ -1,0 +1,6 @@
+[
+    { "keys": ["ctrl+alt+,"], "command": "expand_tabs" },
+    { "keys": ["ctrl+alt+."], "command": "unexpand_tabs" },
+    { "keys": ["ctrl+alt+;"], "command": "goto_python_definition"},
+	{ "keys": ["super+shift+8"], "command": "pep8_check" }
+]
