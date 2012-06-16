@@ -1,11 +1,15 @@
 {
-	"auto_upgrade_last_run": 1326896374,
+	"auto_upgrade_last_run": 1339808946,
 	"installed_packages":
 	[
 		"alternative_autocompletion",
+		"Buildout",
+		"nginx",
 		"Package Control",
 		"SideBarGit",
+		"Simples Consultoria",
 		"SublimeHg",
+		"Varnish",
 		"Zope"
 	],
 	"repository_channels":
